@@ -26,7 +26,6 @@ AUTH_BREAKER_NAME - Shows the name of a rule breaker in calladmin (only in calla
 AUTH_BREAKER_ID - Shows the ID of rule breaker (only in calladmin.cfg)
 AUTH_BREAKER_STEAM - Shows rule breaker Steam Page (only in calladmin.cfg)
 RULE_REASON - Shows the rule that was reported  (only in calladmin.cfg)
--
 
 Auth Url Types
 
